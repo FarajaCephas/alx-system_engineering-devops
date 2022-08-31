@@ -1,1 +1,1 @@
-Shell script to display current directory contents incuding hidden files use the long format
+Shell script to display current directory contents including hidden files in long format, with user and group IDs displayed numerically
