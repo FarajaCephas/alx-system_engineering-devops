@@ -1,1 +1,1 @@
-Shell script to display the content list of the current directory
+Shell script to change the working directory to the user's home directory
