@@ -1,1 +1,1 @@
-Shell script to display current directory contents including hidden files in long format, with user and group IDs displayed numerically
+Shell script to create a directory my_first_directory in the /tmp/directory
