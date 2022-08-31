@@ -1,1 +1,1 @@
-Shell script to display current directory contents in a long format
+Shell script to display current directory contents incuding hidden files use the long format
