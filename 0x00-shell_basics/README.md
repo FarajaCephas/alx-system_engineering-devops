@@ -1,1 +1,1 @@
-Shell script to create a directory my_first_directory in the /tmp/directory
+Shell script to move a file from one directory to another
